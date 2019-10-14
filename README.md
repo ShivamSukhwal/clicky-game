@@ -1,3 +1,7 @@
+A memory challenge game where you try to not click on the same image twice. Click on the link to play the game!!!
+
+https://clicky-games1000.herokuapp.com
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
